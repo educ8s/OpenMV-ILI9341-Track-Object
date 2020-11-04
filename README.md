@@ -20,13 +20,13 @@ This is a slight modification of the OpenMV example that comes with board.
 
 # Parts Needed
 
-🛒 OpenMV M7 ▶ http://educ8s.tv/part/ArduinoUno
+🛒 OpenMV M7 ▶ http://educ8s.tv/part/OpenMV
 
-🛒 OpenMV H7 ▶ http://educ8s.tv/part/st7789
+🛒 OpenMV H7 ▶ http://educ8s.tv/part/OpenMVH7  💡 FASTER
 
-🛒 ILI9341 ▶ http://educ8s.tv/part/DS18B20
+🛒 ILI9341 ▶ http://educ8s.tv/part/28ILI9341
 
-🛒 Prototyping Board ▶ http://educ8s.tv/part/SmallBreadboard
+🛒 Prototyping Board ▶ http://educ8s.tv/part/PrototypingBoards
 
 🛒 Soldering Iron ▶ http://educ8s.tv/part/Wires
 
