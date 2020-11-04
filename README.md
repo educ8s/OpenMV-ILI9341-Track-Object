@@ -3,11 +3,11 @@
 This is a slight modification of the OpenMV example that comes with board.
 
 <p align="center">
-  <img src="demo.jpg" alt="ST7789 Thermometer" width="1280">
+  <img src="demo.jpg" alt="OpenMV ILI9341" width="1280">
 </p>
 
 <p align="center">
-🎥 <a href="https://www.youtube.com/watch?v=-nECx4DOE84">Video Tutorial on YouTube</a>
+🎥 <a href="https://www.youtube.com/watch?v=A1ZeEZCyMKg">Video Tutorial on YouTube</a>
 </p>
 
 <br>
