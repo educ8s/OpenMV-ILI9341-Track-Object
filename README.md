@@ -28,6 +28,8 @@ This is a slight modification of the OpenMV example that comes with board.
 
 🛒 Prototyping Board ▶ http://educ8s.tv/part/PrototypingBoards
 
+🛒 Soldering Iron ▶ http://educ8s.tv/part/TS100
+
 💖 Full disclosure: All of the links above are affiliate links. I get a small percentage of each sale they generate. Thank you for your support!
 
 # Library for the display
