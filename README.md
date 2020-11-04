@@ -1,6 +1,6 @@
 # OpenMV-ILI9341-Track-Object
 
-This is a slight modification of the OpenMV example that comes with board.
+This is an Automatic RGB565 Color Tracking Example project that comes with the OpenMV cam. It lets you track an object by color. I modified the provided code to support the inexpensive (less than $10) ILI9341 display. Using an OpenMV H7 cam it can track an object and drive the display at 40 fps! Check the video for more details.
 
 <p align="center">
   <img src="demo.jpg" alt="OpenMV ILI9341" width="1280">
