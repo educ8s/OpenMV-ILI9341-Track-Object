@@ -24,7 +24,7 @@ This is a slight modification of the OpenMV example that comes with board.
 
 🛒 OpenMV H7 ▶ http://educ8s.tv/part/OpenMVH7  💡 FASTER
 
-🛒 ILI9341 ▶ http://educ8s.tv/part/28ILI9341
+🛒 ILI9341 Display ▶ http://educ8s.tv/part/28ILI9341
 
 🛒 Prototyping Board ▶ http://educ8s.tv/part/PrototypingBoards
 
@@ -38,6 +38,6 @@ This is a slight modification of the OpenMV example that comes with board.
 
 # Credits & Thanks
 
-  - Kudos to [cbm80amiga](https://github.com/cbm80amiga) for being the creator of the original ST7789 fast library without which this project would not exist.
+  - Kudos to [OutOfTheBots](https://github.com/OutOfTheBots) for being the creator of ILI9341 MicroPython library without which this project would not exist.
 
 
